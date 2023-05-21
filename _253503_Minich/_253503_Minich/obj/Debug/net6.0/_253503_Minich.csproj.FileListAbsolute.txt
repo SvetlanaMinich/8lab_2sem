@@ -1,0 +1,15 @@
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\bin\Debug\net6.0\_253503_Minich.exe
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\bin\Debug\net6.0\_253503_Minich.deps.json
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\bin\Debug\net6.0\_253503_Minich.runtimeconfig.json
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\bin\Debug\net6.0\_253503_Minich.dll
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\bin\Debug\net6.0\_253503_Minich.pdb
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.csproj.AssemblyReference.cache
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.AssemblyInfoInputs.cache
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.AssemblyInfo.cs
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.dll
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\obj\Debug\net6.0\refint\_253503_Minich.dll
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.pdb
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\obj\Debug\net6.0\_253503_Minich.genruntimeconfig.cache
+C:\Users\Светлана\Desktop\папки\всЁ\бгуир\C#\labs\8\_253503_Minich\_253503_Minich\obj\Debug\net6.0\ref\_253503_Minich.dll
